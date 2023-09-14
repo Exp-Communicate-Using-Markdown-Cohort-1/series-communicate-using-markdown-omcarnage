@@ -1,6 +1,4 @@
-# bello
-
-## bello2
+# adding header
 
 !["alttext"](https://images.freeimages.com/images/large-previews/afe/sky-1514695.jpg)
 
